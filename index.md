@@ -3,11 +3,7 @@
 #  <H3> GATES AVE 
 
 
-
-
-
-
-
+![cat](https://octodex.github.com/images/yaktocat.png)
 
 
 
